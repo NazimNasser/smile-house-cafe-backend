@@ -11,6 +11,9 @@
         "APP_ENV": "local",
         "APP_DEBUG": "true",
         "APP_URL": "http://localhost",
+        "DB_DATABASE": "laravel_api_boilerplate",
+        "DB_USERNAME": "root",
+        "DB_PASSWORD": "Nazim@Rayan1",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
